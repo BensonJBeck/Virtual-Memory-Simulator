@@ -1,0 +1,27 @@
+Number of frames : 8
+Total memory accesses : 777587
+Total page faults : 248712
+Total writes to disk : 71057
+Number of page table leaves : 2
+Total size of page table : 0
+
+Number of frames : 16
+Total memory accesses : 777587
+Total page faults : 156682
+Total writes to disk : 37315
+Number of page table leaves : 2
+Total size of page table : 0
+
+Number of frames : 32
+Total memory accesses : 777587
+Total page faults : 52086
+Total writes to disk : 18885
+Number of page table leaves : 3
+Total size of page table : 0
+
+Number of frames : 64
+Total memory accesses : 777587
+Total page faults : 27617
+Total writes to disk : 10647
+Number of page table leaves : 4
+Total size of page table : 0
